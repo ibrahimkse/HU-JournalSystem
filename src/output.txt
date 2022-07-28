@@ -1,0 +1,224 @@
+----------------------------------------List-----------------------------------------
+Author:100     Olivier_Duchenne     MIT     Computer_Science     oliver@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002007       Variational_Stereo_in_Dynamic_Illumination     ICCV     2012
++1002012       Source_Constrained_Clustering     ICCV     2012
++1002018       Content-Based_Photo_Quality_Assessment     CVPR     2013
+ 
+Author:101     Ruonan_Li     MIT     Computer_Science     ruonan@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002009       A_Theory_of_Coprime_Blurred_Pairs     ICCV     2012
+ 
+Author:102     Horst_Bischof     HUN     Computer_Engineering     horst@cs.hacettepe.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
+ 
+Author:103     Pietro_Perona     METU     Computer_Science     pietro@ce.metu.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1032019       HEAT:Iterative_Relevance_Feedback_with_One_Million_Images     CVPR     2013
+ 
+Author:104     Nadia_Payet     METU     Computer_Engineering     nadia@ce.metu.edu.tr
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1042008       Revisiting_Radiometric_Calibration_for_Color_Computer_Vision     ICCV     2012
++1042010       Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos     ICCV     2012
++1042020       Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator     CVPR     2013
+ 
+Author:105     Blake_Johnson     HARVARD     Computer_Science     blake@harvard.edu
+ 
+----------------------------------------END-----------------------------------------
+********************************completeAll Successful*********************************
+----------------------------------------List-----------------------------------------
+Author:100     Olivier_Duchenne     MIT     Computer_Science     oliver@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002007       Variational_Stereo_in_Dynamic_Illumination     ICCV     2012
++1002012       Source_Constrained_Clustering     ICCV     2012
++1002018       Content-Based_Photo_Quality_Assessment     CVPR     2013
+ 
+Author:101     Ruonan_Li     MIT     Computer_Science     ruonan@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002009       A_Theory_of_Coprime_Blurred_Pairs     ICCV     2012
+ 
+Author:102     Horst_Bischof     HUN     Computer_Engineering     horst@cs.hacettepe.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
+ 
+Author:103     Pietro_Perona     METU     Computer_Science     pietro@ce.metu.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1032019       HEAT:Iterative_Relevance_Feedback_with_One_Million_Images     CVPR     2013
+ 
+Author:104     Nadia_Payet     METU     Computer_Engineering     nadia@ce.metu.edu.tr
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1042008       Revisiting_Radiometric_Calibration_for_Color_Computer_Vision     ICCV     2012
++1042010       Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos     ICCV     2012
++1042020       Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator     CVPR     2013
+ 
+Author:105     Blake_Johnson     HARVARD     Computer_Science     blake@harvard.edu
+ 
+----------------------------------------END-----------------------------------------
+*********************************SortedAll Successful*********************************
+----------------------------------------List-----------------------------------------
+Author:100     Olivier_Duchenne     MIT     Computer_Science     oliver@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002007       Variational_Stereo_in_Dynamic_Illumination     ICCV     2012
++1002012       Source_Constrained_Clustering     ICCV     2012
++1002018       Content-Based_Photo_Quality_Assessment     CVPR     2013
+ 
+Author:101     Ruonan_Li     MIT     Computer_Science     ruonan@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002009       A_Theory_of_Coprime_Blurred_Pairs     ICCV     2012
+ 
+Author:102     Horst_Bischof     HUN     Computer_Engineering     horst@cs.hacettepe.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
+ 
+Author:103     Pietro_Perona     METU     Computer_Science     pietro@ce.metu.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1032019       HEAT:Iterative_Relevance_Feedback_with_One_Million_Images     CVPR     2013
+ 
+Author:104     Nadia_Payet     METU     Computer_Engineering     nadia@ce.metu.edu.tr
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1042008       Revisiting_Radiometric_Calibration_for_Color_Computer_Vision     ICCV     2012
++1042010       Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos     ICCV     2012
++1042020       Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator     CVPR     2013
+ 
+Author:105     Blake_Johnson     HARVARD     Computer_Science     blake@harvard.edu
+ 
+----------------------------------------END-----------------------------------------
+********************************del Successful*********************************
+----------------------------------------List-----------------------------------------
+Author:101     Ruonan_Li     MIT     Computer_Science     ruonan@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002009       A_Theory_of_Coprime_Blurred_Pairs     ICCV     2012
+ 
+Author:102     Horst_Bischof     HUN     Computer_Engineering     horst@cs.hacettepe.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
+ 
+Author:103     Pietro_Perona     METU     Computer_Science     pietro@ce.metu.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1032019       HEAT:Iterative_Relevance_Feedback_with_One_Million_Images     CVPR     2013
+ 
+Author:104     Nadia_Payet     METU     Computer_Engineering     nadia@ce.metu.edu.tr
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1042008       Revisiting_Radiometric_Calibration_for_Color_Computer_Vision     ICCV     2012
++1042010       Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos     ICCV     2012
++1042020       Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator     CVPR     2013
+ 
+Author:105     Blake_Johnson     HARVARD     Computer_Science     blake@harvard.edu
+ 
+----------------------------------------END-----------------------------------------
+----------------------------------------List-----------------------------------------
+Author:100     Olivier_Duchenne     MIT     Computer_Science     oliver@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002007       Variational_Stereo_in_Dynamic_Illumination     ICCV     2012
++1002012       Source_Constrained_Clustering     ICCV     2012
++1002018       Content-Based_Photo_Quality_Assessment     CVPR     2013
+ 
+Author:101     Ruonan_Li     MIT     Computer_Science     ruonan@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002009       A_Theory_of_Coprime_Blurred_Pairs     ICCV     2012
+ 
+Author:102     Horst_Bischof     HUN     Computer_Engineering     horst@cs.hacettepe.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
+ 
+Author:103     Pietro_Perona     METU     Computer_Science     pietro@ce.metu.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1032019       HEAT:Iterative_Relevance_Feedback_with_One_Million_Images     CVPR     2013
+ 
+Author:104     Nadia_Payet     METU     Computer_Engineering     nadia@ce.metu.edu.tr
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1042008       Revisiting_Radiometric_Calibration_for_Color_Computer_Vision     ICCV     2012
++1042010       Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos     ICCV     2012
++1042020       Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator     CVPR     2013
+ 
+Author:105     Blake_Johnson     HARVARD     Computer_Science     blake@harvard.edu
+ 
+----------------------------------------END-----------------------------------------
+********************************completeAll Successful*********************************
+----------------------------------------List-----------------------------------------
+Author:100     Olivier_Duchenne     MIT     Computer_Science     oliver@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002007       Variational_Stereo_in_Dynamic_Illumination     ICCV     2012
++1002012       Source_Constrained_Clustering     ICCV     2012
++1002018       Content-Based_Photo_Quality_Assessment     CVPR     2013
+ 
+Author:101     Ruonan_Li     MIT     Computer_Science     ruonan@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002009       A_Theory_of_Coprime_Blurred_Pairs     ICCV     2012
+ 
+Author:102     Horst_Bischof     HUN     Computer_Engineering     horst@cs.hacettepe.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
+ 
+Author:103     Pietro_Perona     METU     Computer_Science     pietro@ce.metu.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1032019       HEAT:Iterative_Relevance_Feedback_with_One_Million_Images     CVPR     2013
+ 
+Author:104     Nadia_Payet     METU     Computer_Engineering     nadia@ce.metu.edu.tr
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1042008       Revisiting_Radiometric_Calibration_for_Color_Computer_Vision     ICCV     2012
++1042010       Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos     ICCV     2012
++1042020       Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator     CVPR     2013
+ 
+Author:105     Blake_Johnson     HARVARD     Computer_Science     blake@harvard.edu
+ 
+----------------------------------------END-----------------------------------------
+*********************************SortedAll Successful*********************************
+----------------------------------------List-----------------------------------------
+Author:100     Olivier_Duchenne     MIT     Computer_Science     oliver@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002007       Variational_Stereo_in_Dynamic_Illumination     ICCV     2012
++1002012       Source_Constrained_Clustering     ICCV     2012
++1002018       Content-Based_Photo_Quality_Assessment     CVPR     2013
+ 
+Author:101     Ruonan_Li     MIT     Computer_Science     ruonan@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002009       A_Theory_of_Coprime_Blurred_Pairs     ICCV     2012
+ 
+Author:102     Horst_Bischof     HUN     Computer_Engineering     horst@cs.hacettepe.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
+ 
+Author:103     Pietro_Perona     METU     Computer_Science     pietro@ce.metu.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1032019       HEAT:Iterative_Relevance_Feedback_with_One_Million_Images     CVPR     2013
+ 
+Author:104     Nadia_Payet     METU     Computer_Engineering     nadia@ce.metu.edu.tr
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1042008       Revisiting_Radiometric_Calibration_for_Color_Computer_Vision     ICCV     2012
++1042010       Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos     ICCV     2012
++1042020       Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator     CVPR     2013
+ 
+Author:105     Blake_Johnson     HARVARD     Computer_Science     blake@harvard.edu
+ 
+----------------------------------------END-----------------------------------------
+********************************del Successful*********************************
+----------------------------------------List-----------------------------------------
+Author:101     Ruonan_Li     MIT     Computer_Science     ruonan@mit.edu
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1002009       A_Theory_of_Coprime_Blurred_Pairs     ICCV     2012
+ 
+Author:102     Horst_Bischof     HUN     Computer_Engineering     horst@cs.hacettepe.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
+ 
+Author:103     Pietro_Perona     METU     Computer_Science     pietro@ce.metu.edu.tr
++1002004       From_Contours_to_3D_Object_Detection_and_Pose_Estimation     ICCV     2012
++1032019       HEAT:Iterative_Relevance_Feedback_with_One_Million_Images     CVPR     2013
+ 
+Author:104     Nadia_Payet     METU     Computer_Engineering     nadia@ce.metu.edu.tr
++1002001       A_Graph-matching_Kernel_for_Object_Categorization     ICCV     2012
++1042008       Revisiting_Radiometric_Calibration_for_Color_Computer_Vision     ICCV     2012
++1042010       Learning_to_Predict_the_Perceived_Visual_Quality_of_Photos     ICCV     2012
++1042020       Unsupervised_Learning_of_a_Scene-Specific_Coarse_Gaze_Estimator     CVPR     2013
+ 
+Author:105     Blake_Johnson     HARVARD     Computer_Science     blake@harvard.edu
+ 
+----------------------------------------END-----------------------------------------
